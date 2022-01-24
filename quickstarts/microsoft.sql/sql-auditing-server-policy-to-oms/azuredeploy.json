@@ -71,7 +71,7 @@
       "location": "[parameters('workspaceRegion')]",
       "properties": {
         "sku": {
-          "name": "[parameters('omsSku')]"
+          "name": "PerGB2018"
         }
       }
     },
